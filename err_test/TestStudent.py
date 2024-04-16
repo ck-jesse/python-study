@@ -1,6 +1,6 @@
 import unittest
 
-from Student import Student
+from err_test.Student import Student
 
 
 class TestStudent(unittest.TestCase):

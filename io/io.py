@@ -75,3 +75,6 @@ with open('D:/github/python-study/io/test.txt', 'w') as f:
 # 'a'模式表示“追加”，所以write调用会将文本追加到文件的末尾，而不会覆盖现有的内容。
 with open('D:/github/python-study/io/test.txt', 'a') as f:
     f.write('Hello, world222333! ')
+
+
+
